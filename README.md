@@ -11,10 +11,6 @@
 01_03_BetweenAdder<br>
 01_04_StringIO <br>
 01_05_IOtest <br>
- - test01.cpp <br>
- - test02.cpp <br>
- - test03.cpp <br>
- - test04.cpp <br>
 <hr>
 
 <h2>2024/03/20</h2>
