@@ -37,5 +37,6 @@
 02_05_Reference <br>
 02_06_NewDelete <br>
 03_01_StructOrClass <br>
-느낀점 : 다시 한번 참조에 대한 기본 개념을 잡고 객체를 이해하기 위한 기본적인 것 중 new&delete와 Struct(구조체), class(클래스) 기본 구성을 공부함.
+04_01_InformationHiding <br>
+느낀점 : 다시 한번 참조에 대한 기본 개념을 잡고 객체를 이해하기 위한 기본적인 것 중 new&delete와 Struct(구조체), class(클래스) 기본 구성을 공부함. 그리고 객체프로그래밍에서 중요한 정보은닉과 캡슐화 중 정보은닉을 먼저 공부함
 <hr>
