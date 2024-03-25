@@ -26,9 +26,16 @@
 <hr>
 
 <h2>2024/03/22</h2>
-02_01_Const
-02_02_MemorrySpace
-02_03_Callby
-02_04_Bool
+02_01_Const <br>
+02_02_MemorrySpace <br>
+02_03_Callby <br>
+02_04_Bool <br>
 느낀점 : Const에 대한 제대로 된 사용법을 알게 됨. 오늘은 기본적으로 짧게 개념을 익힘.
+<hr>
+
+<h2>2024/03/25</h2>
+02_05_Reference <br>
+02_06_NewDelete <br>
+03_01_StructOrClass <br>
+느낀점 : 다시 한번 참조에 대한 기본 개념을 잡고 객체를 이해하기 위한 기본적인 것 중 new&delete와 Struct(구조체), class(클래스) 기본 구성을 공부함.
 <hr>
