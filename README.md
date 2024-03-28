@@ -54,4 +54,7 @@
 05_03_DeepCopy <br>
 06_01_Const2 <br>
 06_02_ConstOverloading <br>
-04_03_Freind <br>
+06_03_Freind <br>
+06_04_FreindFunc <br>
+06_05_Staic <br>
+느낀점 : 복사생성자, 얇은 복사, 깊은 복사는 이해도가 매우 적었는데 오늘 확실하게 개념을 그림과 함께 공부함. 나머지는 Const에 대한 이해 Ver2, Static의 경우에 따른 4개를 코드로 구현했고 Friend는 아무래도 정보은닉을 깨는 문법이라 문법적인 요소만 이해하게 공부했다.
