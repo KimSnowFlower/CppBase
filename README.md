@@ -40,3 +40,14 @@
 04_01_InformationHiding <br>
 느낀점 : 다시 한번 참조에 대한 기본 개념을 잡고 객체를 이해하기 위한 기본적인 것 중 new&delete와 Struct(구조체), class(클래스) 기본 구성을 공부함. 그리고 객체프로그래밍에서 중요한 정보은닉과 캡슐화 중 정보은닉을 먼저 공부함
 <hr>
+
+<h2>2024/03/26</h2>
+04_02_Encapsulation <br>
+04_03_Constructor <br>
+04_04_Destructor <br>
+04_05_ObjectArray <br>
+04_06_ObjectPointerArray <br>
+04_07_thisPointer <br>
+04_08_SelfRef <br>
+느낀점 : 어제 정보은닉을 이어 캡슐화 기본적인 부분 이해, 생성자와 소멸자, 객체 배열과 객체 포인터 배열, this 포인터와, SelfRef 등 기본적으로 알아두어야 하는 내용이며 금일 '윈도우즈 프로그래밍'에서 나온 내용과 겹친 내용들이 있어서 이해하는 부분이 그렇게 오래 걸리지 않았다.
+<hr>
