@@ -51,3 +51,11 @@
 04_08_SelfRef <br>
 느낀점 : 어제 정보은닉을 이어 캡슐화 기본적인 부분 이해, 생성자와 소멸자, 객체 배열과 객체 포인터 배열, this 포인터와, SelfRef 등 기본적으로 알아두어야 하는 내용이며 금일 '윈도우즈 프로그래밍'에서 나온 내용과 겹친 내용들이 있어서 이해하는 부분이 그렇게 오래 걸리지 않았다.
 <hr>
+
+<h2>2024/03/26</h2>
+05_01_CopyConstructor <br>
+05_02_ShallowCopy <br>
+05_03_DeepCopy <br>
+06_01_Const2 <br>
+06_02_ConstOverloading <br>
+04_03_Freind <br>
